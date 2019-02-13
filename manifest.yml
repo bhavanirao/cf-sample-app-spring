@@ -2,5 +2,5 @@
 applications:
 - name: cf-spring
   memory: 768M
-  instances: 3
+  instances: 2
   random-route: true
